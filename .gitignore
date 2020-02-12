@@ -130,3 +130,5 @@ dmypy.json
 
 # Mac specific gitignore
 .DS_Store
+
+apikey.txt
